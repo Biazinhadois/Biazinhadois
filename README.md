@@ -33,12 +33,9 @@
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Beatriz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=5&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+[![Estatísticas da Beatriz](https://github-readme-stats.vercel.app/api?username=Biazinhadois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Biazinhadois)
 
-<br>
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Biazinhadois&layout=compact&langs_count=5&theme=dracula)](https://github.com/Biazinhadois)
 
 ## 📱 Vamos nos conectar!
 

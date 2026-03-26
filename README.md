@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋! Eu sou a Beatriz</h1>
+<h1 align="center">Olá ✨! Eu sou a Beatriz</h1>
 <h3 align="center">🌱 Estudante de Desenvolvimento de Sistemas | Futura Desenvolvedora</h3>
 
 <br>
